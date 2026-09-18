@@ -7,17 +7,17 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-3C873A?style=for-the-badge" alt="BeautifulSoup" />
 </p>
 
-## 🇬🇧 Overview
+## Overview
 
 Notes and examples on HTTP in Python: GET/POST/PUT/PATCH/DELETE with Requests against JSONPlaceholder, synchronous vs. threaded vs. asyncio/aiohttp requests, and a small link crawler.
 
 **Quick start:** `python 01-requests_example.py`
 
-## 🇹🇷 Proje hakkında
+## Proje hakkında
 
 Python'da HTTP isteklerini anlatan not ve örnekler.
 
-## 📚 İçerik
+## İçerik
 
 - `01`: HTTP, API, JSON kavramları ve temel `requests` kullanımı
 - `02`: senkron istekler ile `threading` karşılaştırması
@@ -25,7 +25,7 @@ Python'da HTTP isteklerini anlatan not ve örnekler.
 - `04`, `05`: JSONPlaceholder üzerinde POST, PUT, PATCH, DELETE
 - `06`: BeautifulSoup ile bağlantı toplayan küçük bir tarayıcı
 
-## ⚙️ Kurulum ve çalıştırma
+## Kurulum ve çalıştırma
 
 ```bash
 python -m venv .venv
@@ -33,7 +33,7 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 📁 Dosya yapısı
+## Dosya yapısı
 
 ```text
 RequestsProject/
